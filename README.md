@@ -37,5 +37,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
------------------*******------------------
+## Watch-Cart Application (WatchCart.js)
+![watch-cart](https://user-images.githubusercontent.com/76586777/216511110-adb8227f-bcff-467a-bd83-32e7a6f1117b.JPG)
+
+## Mobile-Cart Application (MobileCart.js)
+![mobile-cart](https://user-images.githubusercontent.com/76586777/216511470-c82884ff-6c19-4a7a-86e8-ffd978584f67.JPG)
+
+## Counter Application (Counter.js)
+![counter-app](https://user-images.githubusercontent.com/76586777/216511409-0940a520-b70d-43f0-941f-3a793386a3c5.JPG)
+
+## LoginForm Application (LoginForm.js)
+![login-form](https://user-images.githubusercontent.com/76586777/216511379-3483b27b-d228-4094-9c9f-805b0be9685a.JPG)
+
+## Phone-Card Application (Phone.js)
+![phone-card](https://user-images.githubusercontent.com/76586777/216511399-9173e9db-df74-4dc3-aac7-22aadb3bceb2.JPG)
+
+
 
